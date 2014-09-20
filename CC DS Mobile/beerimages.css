@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#beerintro {
+	margin: 0 auto;
+}
+#beerintro h1 {
+	font-size: 3em;
+	color: #706B6B;
+	text-align: center;
+}
+#beerimages {
+	
+	
+}
+.tastingnoteimage {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	float: none;
+	margin: 0 auto;
+	clear: none;
+	text-align: center;
+}
+.footer {
+	
+}
+#dodsonpagediv {
+	background-repeat: no-repeat;
+	height: auto;
+	width: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+#dodsonpagediv h1 {
+	font-size: 3em;
+	color: #706B6B;
+}
+#logodiv {
+	margin: 0 auto;
+}
+#logodiv img {
+	padding-bottom: 30px;	
+}
